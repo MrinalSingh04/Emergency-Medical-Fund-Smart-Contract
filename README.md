@@ -3,7 +3,7 @@
 ## 📌 What is it?
 
 The **Emergency Medical Fund** is a decentralized smart contract where **family, friends, or community members can pool funds together** to support a patient during medical emergencies.
-
+ 
 Unlike traditional fundraising platforms where funds can be delayed or misused, this contract ensures that **contributed money is only released directly to verified hospitals** once an emergency is confirmed by a trusted oracle.
 
 If no emergency occurs within a defined period, contributors can **withdraw their funds back proportionally**, ensuring transparency and fairness.

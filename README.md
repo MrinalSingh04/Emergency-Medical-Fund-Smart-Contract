@@ -10,7 +10,7 @@ If no emergency occurs within a defined period, contributors can **withdraw thei
 
 ---
  
-## 💡 Why this Contract?
+## 💡 Why this Contract? 
 
 1. **Quick Access to Funds**  
    In emergencies, patients cannot afford delays. This contract allows **instant payouts** to hospitals once verified.

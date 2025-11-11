@@ -8,7 +8,7 @@ Unlike traditional fundraising platforms where funds can be delayed or misused, 
 
 If no emergency occurs within a defined period, contributors can **withdraw their funds back proportionally**, ensuring transparency and fairness.
      
----     
+---      
       
 ## 💡 Why this Contract?           
   
